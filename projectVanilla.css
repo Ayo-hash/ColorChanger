@@ -63,6 +63,11 @@ nav .nav-center{
     font-weight: bold;
     width: 200px
 }
+.btn:hover{
+    background: #121212;
+    color:white;
+}
+
 
 @media screen and (max-width:672px) {
 .container {
